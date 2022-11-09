@@ -1,4 +1,4 @@
-##SIMPLE GAME IN JS
+Simple Game in JS
 
 
 
